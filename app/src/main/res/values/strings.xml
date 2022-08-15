@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">infnet-bl5-smpaa-tp1</string>
+    <string name="LblInformacoes">Registro de acompanhamento de entregador com base no posicionamento de GPS</string>
+    <string name="lblTitulo">Acompanhamento GPS</string>
+    <string name="hintBtnGravar">Pressione para gravar o posicionamento</string>
+    <string name="textoBtnGravar">Gravar Posicionamento</string>
+    <string name="hintLblInformacoesResultado">Lista dos arquivos gravados com os dados de geoprocessamento capturados ao longo do acompanhamento do entregador</string>
+    <string name="hintBtnVoltar">Voltar à tela anterior</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="hintbtnListar">Lista os arquivos de posicionamento</string>
+    <string name="btnListar">Listar Arquivos Posicionamento</string>
+</resources>
